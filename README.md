@@ -2,7 +2,7 @@
 
 The project consists on the commissioning of a state of the art radio astronomy station for student training and research.
 
-The detailed description of the project proposal can be found [here]({{ site.url }}/project.html)
+The detailed description of the project proposal can be found [here]({{ site.url }}/ROE-radio/project.html)
 
 It was mainly developed by Sean Johnston and Jose Sabater through the summer of 2018. Two projects were successfully tested: the detection of meteor scatter and the measurement of the Milky Way atomic gas emission.
 
