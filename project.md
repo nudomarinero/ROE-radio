@@ -1,3 +1,7 @@
+---
+title: Project proposal
+---
+
 # Observing the radio sky from the Royal Observatory
 
 ## Project overview
